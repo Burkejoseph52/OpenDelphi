@@ -1,4 +1,4 @@
-# Open-Delphi
+# OpenDelphi
 OpenDelphi: Revolutionizing Automotive Tuning with Open Source Technology
 
 OpenDelphi is a groundbreaking open-source company dedicated to revolutionizing the automotive tuning industry. Our mission is to empower vehicle owners and enthusiasts with the tools and knowledge they need to tune their vehicles at no cost, providing complete control and full read and write rights over their car's performance.
